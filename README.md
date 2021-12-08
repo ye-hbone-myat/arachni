@@ -47,5 +47,5 @@ C:\Users\yourusername\Desktop\arachni-1.4-0.5.10-windows-x86_64\README.txt
 ```
 Arachni Scanner Scanning Types
 ----------
-1. Scan
+1. New Scan
 2. Schedule Scan
