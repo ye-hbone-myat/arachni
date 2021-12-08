@@ -21,7 +21,7 @@ Note : Change path according to your file.
 ```console
 arachni-1.4-0.5.10-windows-x86_64.exe
 ```
-This willextract files to directory **C:\Users\yourusername\Desktop\arachni-1.4-0.5.10-windows-x86_64**
+This will extract files to directory **C:\Users\yourusername\Desktop\arachni-1.4-0.5.10-windows-x86_64**
 
 **STEP 5 : Navigate to arachni bin directory**
 
@@ -42,7 +42,10 @@ Go to url http://localhost:9292/ and login.
 **STEP 8 : Check account credentials and other details**
 
 Check default login details in the following path.
-
 ```console
 C:\Users\yourusername\Desktop\arachni-1.4-0.5.10-windows-x86_64\README.txt
 ```
+Arachni Scanner Scanning Types
+----------
+1. Scan
+2. Schedule Scan
