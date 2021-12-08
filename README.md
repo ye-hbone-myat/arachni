@@ -7,6 +7,8 @@ Installation of Arachni Vulnerability Scanner in Window OS
 
 **STEP 2 : Run cmd.exe as Administrator**
 
+![alter text](https://github.com/ye-hbone-myat/arachni/blob/f8a46d815e3e8aa81b3713f3a91d88f6ee3eedce/images/image-893-1024x554.png)
+
 **STEP 3 : Navigate to directory where arachni package was downloaded**
 
 ```console
